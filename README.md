@@ -1,4 +1,5 @@
-# HQImages-from-Sketches-CGANs
+# Generating High Quality Facial Images from Sketches Using Conditional GANs
+[Final Report](final_report.pdf)
 
 ## Abstract
 Generating photo-realistic facial images from hand-drawn sketches has been a problem of significant interest in the computer vision literature. Most approaches rely on using conditional GANs, with the best models requiring training using multiple GANs on
